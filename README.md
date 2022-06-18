@@ -34,6 +34,7 @@ Please list two areas of the assignment you'd like to discuss further with your 
 
 Making the search bar function
 Handling Network errors and actionControl
-Video Walkthrough
+Video Walkthrough: https://gyazo.com/e932bf12164c77b1dda7f4446566665b
 
-Here's a walkthrough of implemented user stories:
+
+
